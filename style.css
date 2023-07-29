@@ -99,8 +99,9 @@
 }
 
 .student-image{
-    width: 20%;
-    border-radius: 25% 5%;
+    width: 250px;
+    height: 235px;
+    border-radius: 100%;
     margin: 0 auto 30px auto;
 }
 
